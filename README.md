@@ -23,4 +23,4 @@ The platform is built using:
 
 ## Acknowledgments
 
-Special thanks to the Arrived.com team for inspiration and the React/Tailwind CSS communities for their continued support and resources.
+Special thanks to the Arrived.com team for inspiration and the React/Tailwind CSS communities for their continued support and resources
